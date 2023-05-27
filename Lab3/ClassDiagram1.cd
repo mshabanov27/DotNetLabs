@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab3.ProductFactory">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3.MotherboardFactory">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAQAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3.ProcessorFactory">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <InheritanceLine Type="Lab3.ProductFactory" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="5.375" />
+        <Point X="8.5" Y="5.375" />
+        <Point X="8.5" Y="3.127" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAIAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3.HardDriveFactory">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <InheritanceLine Type="Lab3.ProductFactory" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="4" Y="5.375" />
+        <Point X="1.25" Y="5.375" />
+        <Point X="1.25" Y="3.127" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Factories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3.MemoryFactory">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Factories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3.Product">
+    <Position X="4" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAEAABAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3.Motherboard">
+    <Position X="2.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQBEAAAABAAAAAAAAAAAAiAAAAAAAAA=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3.Processor">
+    <Position X="7.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEABAAAAABAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3.HardDrive">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAABAAAADAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3.Memory">
+    <Position X="5.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAACAIAAAAAAAwAAAAAAAAA=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

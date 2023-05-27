@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DotNet Labs/1.0.0": {
+        "runtime": {
+          "DotNet Labs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNet Labs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

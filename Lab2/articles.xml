@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<articles>
+  <article>
+    <name>Quantum Computing: A Beginner's Guide</name>
+    <authors>
+      <author>
+        <surname>Ramirez</surname>
+        <name>Kimberly</name>
+        <secondName>Amanda</secondName>
+        <organisation>
+          <name>The Idle Rocks</name>
+          <employeesNumber>143</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Molecular Cell Biology</name>
+      <issuePeriodDays>11</issuePeriodDays>
+      <issueDate>17.01.2011</issueDate>
+      <circulation>4700</circulation>
+    </journal>
+    <publicationDate>20.11.2000</publicationDate>
+  </article>
+  <article>
+    <name>The Neuroscience of Consciousness</name>
+    <authors>
+      <author>
+        <surname>Ramirez</surname>
+        <name>Kimberly</name>
+        <secondName>Amanda</secondName>
+        <organisation>
+          <name>The Idle Rocks</name>
+          <employeesNumber>143</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Molecular Cell Biology</name>
+      <issuePeriodDays>11</issuePeriodDays>
+      <issueDate>17.01.2011</issueDate>
+      <circulation>4700</circulation>
+    </journal>
+    <publicationDate>20.07.2011</publicationDate>
+  </article>
+  <article>
+    <name>The Evolution of Flight in Birds</name>
+    <authors>
+      <author>
+        <surname>Sanchez</surname>
+        <name>Ashley</name>
+        <secondName>Carol</secondName>
+        <organisation>
+          <name>Anassa</name>
+          <employeesNumber>44</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Nature Reviews Materials</name>
+      <issuePeriodDays>9</issuePeriodDays>
+      <issueDate>03.11.2010</issueDate>
+      <circulation>4900</circulation>
+    </journal>
+    <publicationDate>11.08.2014</publicationDate>
+  </article>
+  <article>
+    <name>The Future of Space Exploration</name>
+    <authors>
+      <author>
+        <surname>Thompson</surname>
+        <name>Mark</name>
+        <secondName>Joshua</secondName>
+        <organisation>
+          <name>The Idle Rocks</name>
+          <employeesNumber>143</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Molecular Cell Biology</name>
+      <issuePeriodDays>11</issuePeriodDays>
+      <issueDate>17.01.2011</issueDate>
+      <circulation>4700</circulation>
+    </journal>
+    <publicationDate>19.09.2008</publicationDate>
+  </article>
+  <article>
+    <name>Artificial Intelligence and Ethics</name>
+    <authors>
+      <author>
+        <surname>Ramirez</surname>
+        <name>Kimberly</name>
+        <secondName>Amanda</secondName>
+        <organisation>
+          <name>The Idle Rocks</name>
+          <employeesNumber>143</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Nature Medicine</name>
+      <issuePeriodDays>12</issuePeriodDays>
+      <issueDate>16.11.2004</issueDate>
+      <circulation>4900</circulation>
+    </journal>
+    <publicationDate>04.09.2004</publicationDate>
+  </article>
+  <article>
+    <name>The Role of Microbes in Human Health</name>
+    <authors>
+      <author>
+        <surname>Rodriguez</surname>
+        <name>William</name>
+        <secondName>Christopher</secondName>
+        <organisation>
+          <name>Anassa</name>
+          <employeesNumber>44</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Nature Reviews Genetics</name>
+      <issuePeriodDays>12</issuePeriodDays>
+      <issueDate>12.05.2003</issueDate>
+      <circulation>2200</circulation>
+    </journal>
+    <publicationDate>09.01.2012</publicationDate>
+  </article>
+  <article>
+    <name>Understanding Dark Matter</name>
+    <authors>
+      <author>
+        <surname>Perez</surname>
+        <name>Margaret</name>
+        <secondName>Donna</secondName>
+        <organisation>
+          <name>Gleneagles</name>
+          <employeesNumber>59</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Molecular Cell Biology</name>
+      <issuePeriodDays>11</issuePeriodDays>
+      <issueDate>17.01.2011</issueDate>
+      <circulation>4700</circulation>
+    </journal>
+    <publicationDate>16.04.2001</publicationDate>
+  </article>
+  <article>
+    <name>The Physics of Time Travel</name>
+    <authors>
+      <author>
+        <surname>Johnson</surname>
+        <name>Mary</name>
+        <secondName>Susan</secondName>
+        <organisation>
+          <name>Matild Palace</name>
+          <employeesNumber>139</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Cell</name>
+      <issuePeriodDays>11</issuePeriodDays>
+      <issueDate>01.11.2004</issueDate>
+      <circulation>5900</circulation>
+    </journal>
+    <publicationDate>12.02.2010</publicationDate>
+  </article>
+  <article>
+    <name>The Human Genome Project: A Decade of Discoveries</name>
+    <authors>
+      <author>
+        <surname>Martinez</surname>
+        <name>Barbara</name>
+        <secondName>Nancy</secondName>
+        <organisation>
+          <name>Four Seasons</name>
+          <employeesNumber>8</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Nature Medicine</name>
+      <issuePeriodDays>12</issuePeriodDays>
+      <issueDate>16.11.2004</issueDate>
+      <circulation>4900</circulation>
+    </journal>
+    <publicationDate>24.05.2006</publicationDate>
+  </article>
+  <article>
+    <name>Renewable Energy Sources: Advancements and Challenges</name>
+    <authors>
+      <author>
+        <surname>Clark</surname>
+        <name>Steven</name>
+        <secondName>Kevin</secondName>
+        <organisation>
+          <name>Pine Cliffs</name>
+          <employeesNumber>120</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Nature Reviews Materials</name>
+      <issuePeriodDays>9</issuePeriodDays>
+      <issueDate>03.11.2010</issueDate>
+      <circulation>4900</circulation>
+    </journal>
+    <publicationDate>04.10.2002</publicationDate>
+  </article>
+  <article>
+    <name>Exploring the Deep Sea: New Discoveries and Technologies</name>
+    <authors>
+      <author>
+        <surname>Smith</surname>
+        <name>James</name>
+        <secondName>Richard</secondName>
+        <organisation>
+          <name>Hotel Balkan</name>
+          <employeesNumber>123</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Nature Reviews Genetics</name>
+      <issuePeriodDays>12</issuePeriodDays>
+      <issueDate>12.05.2003</issueDate>
+      <circulation>2200</circulation>
+    </journal>
+    <publicationDate>13.11.2009</publicationDate>
+  </article>
+  <article>
+    <name>The Psychology of Decision Making</name>
+    <authors>
+      <author>
+        <surname>Williams</surname>
+        <name>John</name>
+        <secondName>Joseph</secondName>
+        <organisation>
+          <name>Four Seasons</name>
+          <employeesNumber>8</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Molecular Cell Biology</name>
+      <issuePeriodDays>11</issuePeriodDays>
+      <issueDate>17.01.2011</issueDate>
+      <circulation>4700</circulation>
+    </journal>
+    <publicationDate>12.04.2002</publicationDate>
+  </article>
+  <article>
+    <name>Climate Change: Causes, Impacts, Strategies</name>
+    <authors>
+      <author>
+        <surname>Ramirez</surname>
+        <name>Kimberly</name>
+        <secondName>Amanda</secondName>
+        <organisation>
+          <name>The Idle Rocks</name>
+          <employeesNumber>143</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Cell</name>
+      <issuePeriodDays>11</issuePeriodDays>
+      <issueDate>01.11.2004</issueDate>
+      <circulation>5900</circulation>
+    </journal>
+    <publicationDate>05.11.2007</publicationDate>
+  </article>
+  <article>
+    <name>Genetically Modified Organisms: Benefits and Concerns</name>
+    <authors>
+      <author>
+        <surname>Miller</surname>
+        <name>David</name>
+        <secondName>Charles</secondName>
+        <organisation>
+          <name>Four Seasons</name>
+          <employeesNumber>8</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Nature Reviews Genetics</name>
+      <issuePeriodDays>12</issuePeriodDays>
+      <issueDate>12.05.2003</issueDate>
+      <circulation>2200</circulation>
+    </journal>
+    <publicationDate>20.02.2003</publicationDate>
+  </article>
+  <article>
+    <name>Advancements in Nanotechnology</name>
+    <authors>
+      <author>
+        <surname>Martinez</surname>
+        <name>Barbara</name>
+        <secondName>Nancy</secondName>
+        <organisation>
+          <name>Four Seasons</name>
+          <employeesNumber>8</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Molecular Cell Biology</name>
+      <issuePeriodDays>11</issuePeriodDays>
+      <issueDate>17.01.2011</issueDate>
+      <circulation>4700</circulation>
+    </journal>
+    <publicationDate>02.07.2005</publicationDate>
+  </article>
+  <article>
+    <name>The Science of Sleep: Mechanisms and Functions</name>
+    <authors>
+      <author>
+        <surname>Sanchez</surname>
+        <name>Ashley</name>
+        <secondName>Carol</secondName>
+        <organisation>
+          <name>Anassa</name>
+          <employeesNumber>44</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Nature Medicine</name>
+      <issuePeriodDays>12</issuePeriodDays>
+      <issueDate>16.11.2004</issueDate>
+      <circulation>4900</circulation>
+    </journal>
+    <publicationDate>21.04.2014</publicationDate>
+  </article>
+  <article>
+    <name>Ocean Acidification: Effects on Marine Ecosystems</name>
+    <authors>
+      <author>
+        <surname>Clark</surname>
+        <name>Steven</name>
+        <secondName>Kevin</secondName>
+        <organisation>
+          <name>Pine Cliffs</name>
+          <employeesNumber>120</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Cancer Clinicians</name>
+      <issuePeriodDays>9</issuePeriodDays>
+      <issueDate>02.03.2012</issueDate>
+      <circulation>5800</circulation>
+    </journal>
+    <publicationDate>16.11.2002</publicationDate>
+  </article>
+  <article>
+    <name>Black Holes: Unveiling the Mysteries of the Universe</name>
+    <authors>
+      <author>
+        <surname>Davis</surname>
+        <name>Elizabeth</name>
+        <secondName>Karen</secondName>
+        <organisation>
+          <name>Anassa</name>
+          <employeesNumber>44</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>MMWR Reports</name>
+      <issuePeriodDays>10</issuePeriodDays>
+      <issueDate>13.03.2009</issueDate>
+      <circulation>9300</circulation>
+    </journal>
+    <publicationDate>20.03.2007</publicationDate>
+  </article>
+  <article>
+    <name>The History of Human Evolution</name>
+    <authors>
+      <author>
+        <surname>Martinez</surname>
+        <name>Barbara</name>
+        <secondName>Nancy</secondName>
+        <organisation>
+          <name>Four Seasons</name>
+          <employeesNumber>8</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Nature Medicine</name>
+      <issuePeriodDays>12</issuePeriodDays>
+      <issueDate>16.11.2004</issueDate>
+      <circulation>4900</circulation>
+    </journal>
+    <publicationDate>10.10.2009</publicationDate>
+  </article>
+  <article>
+    <name>Understanding Autism: Behavioral Perspectives</name>
+    <authors>
+      <author>
+        <surname>Garcia</surname>
+        <name>Linda</name>
+        <secondName>Sarah</secondName>
+        <organisation>
+          <name>Gleneagles</name>
+          <employeesNumber>59</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Nature Reviews Materials</name>
+      <issuePeriodDays>9</issuePeriodDays>
+      <issueDate>03.11.2010</issueDate>
+      <circulation>4900</circulation>
+    </journal>
+    <publicationDate>05.08.2014</publicationDate>
+  </article>
+  <article>
+    <name>The Promise of Stem Cell Therapy</name>
+    <authors>
+      <author>
+        <surname>Martinez</surname>
+        <name>Barbara</name>
+        <secondName>Nancy</secondName>
+        <organisation>
+          <name>Four Seasons</name>
+          <employeesNumber>8</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Computer Vision Proceedings</name>
+      <issuePeriodDays>11</issuePeriodDays>
+      <issueDate>08.06.2002</issueDate>
+      <circulation>6400</circulation>
+    </journal>
+    <publicationDate>18.01.2010</publicationDate>
+  </article>
+  <article>
+    <name>Quantum Mechanics: The Fundamentals</name>
+    <authors>
+      <author>
+        <surname>Miller</surname>
+        <name>David</name>
+        <secondName>Charles</secondName>
+        <organisation>
+          <name>Four Seasons</name>
+          <employeesNumber>8</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Cancer Clinicians</name>
+      <issuePeriodDays>9</issuePeriodDays>
+      <issueDate>02.03.2012</issueDate>
+      <circulation>5800</circulation>
+    </journal>
+    <publicationDate>07.05.2003</publicationDate>
+  </article>
+  <article>
+    <name>Exploring the Human Microbiome</name>
+    <authors>
+      <author>
+        <surname>Smith</surname>
+        <name>James</name>
+        <secondName>Richard</secondName>
+        <organisation>
+          <name>Hotel Balkan</name>
+          <employeesNumber>123</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Molecular Cell Biology</name>
+      <issuePeriodDays>11</issuePeriodDays>
+      <issueDate>17.01.2011</issueDate>
+      <circulation>4700</circulation>
+    </journal>
+    <publicationDate>14.11.2004</publicationDate>
+  </article>
+  <article>
+    <name>The Origins of the Universe</name>
+    <authors>
+      <author>
+        <surname>Martinez</surname>
+        <name>Barbara</name>
+        <secondName>Nancy</secondName>
+        <organisation>
+          <name>Four Seasons</name>
+          <employeesNumber>8</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>Cancer Clinicians</name>
+      <issuePeriodDays>9</issuePeriodDays>
+      <issueDate>02.03.2012</issueDate>
+      <circulation>5800</circulation>
+    </journal>
+    <publicationDate>23.05.2001</publicationDate>
+  </article>
+  <article>
+    <name>The Science of Addiction: Mechanisms and Treatment</name>
+    <authors>
+      <author>
+        <surname>Johnson</surname>
+        <name>Mary</name>
+        <secondName>Susan</secondName>
+        <organisation>
+          <name>Matild Palace</name>
+          <employeesNumber>139</employeesNumber>
+        </organisation>
+      </author>
+    </authors>
+    <journal>
+      <name>New England Medicine</name>
+      <issuePeriodDays>8</issuePeriodDays>
+      <issueDate>08.07.2006</issueDate>
+      <circulation>6300</circulation>
+    </journal>
+    <publicationDate>23.10.2014</publicationDate>
+  </article>
+</articles>
