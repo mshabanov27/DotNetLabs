@@ -10,7 +10,7 @@ abstract class Component
         this.name = name;
     }
 
-    public abstract void Display(int depth);
+    public abstract void Display(int depth=0);
     public abstract int GetTotalStaff();
-    public abstract double GetTotalSalary();
+    public abstract float GetTotalSalary();
 }

@@ -1,55 +1,29 @@
 ﻿namespace Lab4;
 
 
-class Department : Component
+class Position : Component
 {
-    private List<Component> children = new List<Component>();
+    private int staffCount;
+    private float salary;
 
-    public Department(string name) : base(name)
+    public Position(string name, int staffCount, float salary) : base(name)
     {
+        this.staffCount = staffCount;
+        this.salary = salary;
     }
 
-    public void Add(Component component)
+    public override void Display(int depth=0)
     {
-        children.Add(component);
-    }
-
-    public void Remove(Component component)
-    {
-        children.Remove(component);
-    }
-
-    public override void Display(int depth)
-    {
-        Console.WriteLine(new string('-', depth) + name);
-
-        foreach (Component component in children)
-        {
-            component.Display(depth + 2);
-        }
+        Console.WriteLine(String.Concat(Enumerable.Repeat('-', depth)) + name);
     }
 
     public override int GetTotalStaff()
     {
-        int totalStaff = 0;
-
-        foreach (Component component in children)
-        {
-            totalStaff += component.GetTotalStaff();
-        }
-
-        return totalStaff;
+        return staffCount;
     }
 
-    public override double GetTotalSalary()
+    public override float GetTotalSalary()
     {
-        double totalSalary = 0;
-
-        foreach (Component component in children)
-        {
-            totalSalary += component.GetTotalSalary();
-        }
-
-        return totalSalary;
+        return staffCount * salary;
     }
 }
