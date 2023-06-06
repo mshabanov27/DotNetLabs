@@ -1,5 +1,6 @@
 ﻿namespace Lab5;
 
+
 public interface IComputerComponent
 {
     void Accept(IVisitor visitor);

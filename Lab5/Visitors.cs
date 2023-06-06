@@ -1,5 +1,6 @@
 ﻿namespace Lab5;
 
+
 public interface IVisitor
 {
     void VisitCpu(Cpu cpu);
